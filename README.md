@@ -17,3 +17,5 @@ win32 real
  - Italian
  - Russian
  - Spanish
+
+Winver branding made by icecube.bfdi on Discord
