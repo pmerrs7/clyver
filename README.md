@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/github/license/rounk-ctrl/winver)
 [![CodeFactor](https://www.codefactor.io/repository/github/rounk-ctrl/winver/badge)](https://www.codefactor.io/repository/github/rounk-ctrl/winver)
 
-win32 real
+win32 real | Made for **Hermosa**
 
 ### Languages added:
  - Polish
