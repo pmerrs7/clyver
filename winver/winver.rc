@@ -118,7 +118,7 @@ BEGIN
     IDS_TEXT_BUILD          " (сборка ОС "
     IDG_TITLE               "усл. лиц. соглашения на исп. По корпорации YaroSoft"
     IDC_WINVER              "ClyVer"
-    IDS_BUTTON              "пон"
+    IDS_BUTTON              "Понял"
 END
 
 #endif    // Russian (Neutral) resources
