@@ -111,12 +111,12 @@ LANGUAGE LANG_RUSSIAN, SUBLANG_NEUTRAL
 
 STRINGTABLE
 BEGIN
-    IDS_APP_TITLE           "О clydeOS"
-    IDS_TEXT_EULA           "Продукт лицензирован в соотв. с <A ID=""idInfo"">усл. лиц. соглашения на исп. По корпорации Бебрасофт</A>, выданного: "
-    IDS_TEXT_COPY           "Операционная система %WINDOWS_LONG% и пользовательский интерфейс в ней защищены правами на товарные знаки и иные обьекты интеллектуальной собственности в Кыргызстане и других странах."
+    IDS_APP_TITLE           "О ClydeOS"
+    IDS_TEXT_EULA           "Продукт лицензирован в соотв. с <A ID=""idInfo"">усл. лиц. соглашения на исп. По корпорации YaroSoft</A>, выданного: "
+    IDS_TEXT_COPY           "ClydeOS и пользовательский интерфейс в ней защищены правами на товарные знаки и иные обьекты интеллектуальной собственности на Донбассе и других ядерных бомб."
     IDS_TEXT_VERSION        "Версия "
     IDS_TEXT_BUILD          " (сборка ОС "
-    IDG_TITLE               "усл. лиц. соглашения на исп. По корпорации Бебрасофт"
+    IDG_TITLE               "усл. лиц. соглашения на исп. По корпорации YaroSoft"
     IDC_WINVER              "ClyVer"
     IDS_BUTTON              "пон"
 END
@@ -213,14 +213,14 @@ LANGUAGE LANG_ENGLISH, SUBLANG_NEUTRAL
 
 STRINGTABLE
 BEGIN
-    IDS_APP_TITLE           "About Windows"
-    IDS_TEXT_EULA           "This product is licensed under the <A ID=""idInfo"">Microsoft Software License Terms</A> to: "
-    IDS_TEXT_COPY           "The %WINDOWS_LONG% operating system and its user interface are protected by trademark and other pending or existing intellectual property rights in the United States and other countries/regions."
+    IDS_APP_TITLE           "About ClydeOS"
+    IDS_TEXT_EULA           "This product is licensed under the <A ID=""idInfo"">YaroSoft Software License Terms</A> to: "
+    IDS_TEXT_COPY           "The ClydeOS and its user interface are protected by trademark and other pending or existing intellectual property rights in the Donbass and other sussy bakas/bebras."
     IDS_TEXT_VERSION        "Version "
     IDS_TEXT_BUILD          " (OS Build "
-    IDG_TITLE               "Microsoft Software License Terms"
-    IDC_WINVER              "WINVER"
-    IDS_BUTTON              "OK"
+    IDG_TITLE               "YaroSoft Software License Terms"
+    IDC_WINVER              "ClyVer"
+    IDS_BUTTON              "pon"
 END
 
 #endif    // English (Neutral) resources
