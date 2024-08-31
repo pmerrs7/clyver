@@ -220,7 +220,7 @@ BEGIN
     IDS_TEXT_BUILD          " (OS Build "
     IDG_TITLE               "YaroSoft Software License Terms"
     IDC_WINVER              "ClyVer"
-    IDS_BUTTON              "pon"
+    IDS_BUTTON              "Okay"
 END
 
 #endif    // English (Neutral) resources
